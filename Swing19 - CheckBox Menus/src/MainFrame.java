@@ -69,7 +69,7 @@ public class MainFrame extends JFrame {
 
         menuBar.add(fileMenu);
         menuBar.add(windowMenu);
-
+        
         return menuBar;
     }
 }
