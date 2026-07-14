@@ -7,7 +7,9 @@
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing19 - CheckBox Menus/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing19 - CheckBox Menus/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing1 - Hello World/Swing1 - Hello World.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Swing1 - Hello World/Swing1 - Hello World.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing20 - Mnemonics and Accelerators/src/FormPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing20 - Mnemonics and Accelerators/src/FormPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing20 - Mnemonics and Accelerators/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing20 - Mnemonics and Accelerators/src/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,7 @@
   "keyToString": {
     "Application.App (1).executor": "Run",
     "Application.App (2).executor": "Run",
+    "Application.App (3).executor": "Run",
     "Application.App.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -36,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing19 - CheckBox Menus/src",
+    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing20 - Mnemonics and Accelerators/src",
     "onboarding.tips.debug.path": "C:/Projects/Reference/SwingJavaUI/Swing18 - Menus/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -46,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Reference\SwingJavaUI\Swing20 - Mnemonics and Accelerators\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing19 - CheckBox Menus\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing18 - Menus\src" />
     </key>
@@ -53,7 +57,7 @@
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Swing18 - Menus" />
@@ -68,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Swing20 - Mnemonics and Accelerators" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Swing17 - Radio Buttons" />
@@ -75,8 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Swing1 - Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Swing1 - Hello World" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
