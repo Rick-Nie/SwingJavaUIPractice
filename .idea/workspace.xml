@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Swing 23 - Filtering File Choosers/src/PersonFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swing 23 - Filtering File Choosers/src/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing 22 - File Choosers/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 22 - File Choosers/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing 23 - Filtering File Choosers/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 23 - Filtering File Choosers/src/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing 22 - File Choosers/src",
+    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing 23 - Filtering File Choosers/src",
     "onboarding.tips.debug.path": "C:/Projects/Reference/SwingJavaUI/Swing18 - Menus/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -51,24 +60,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Reference\SwingJavaUI\Swing 23 - Filtering File Choosers\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 22 - File Choosers\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing21 - Option Panes\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing20 - Mnemonics and Accelerators\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing19 - CheckBox Menus\src" />
-      <recent name="C:\Projects\Reference\SwingJavaUI\Swing18 - Menus\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (5)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="Swing18 - Menus" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.App">
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Swing19 - CheckBox Menus" />
@@ -97,6 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Swing 23 - Filtering File Choosers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Swing1 - Hello World" />
       <method v="2">
@@ -110,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.App (5)" />
         <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>

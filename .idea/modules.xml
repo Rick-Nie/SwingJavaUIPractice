@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data Model/Data Model.iml" filepath="$PROJECT_DIR$/Data Model/Data Model.iml" />
       <module fileurl="file://$PROJECT_DIR$/Swing 22 - File Choosers/Swing 22 - File Choosers.iml" filepath="$PROJECT_DIR$/Swing 22 - File Choosers/Swing 22 - File Choosers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Swing 23 - Filtering File Choosers/Swing 23 - Filtering File Choosers.iml" filepath="$PROJECT_DIR$/Swing 23 - Filtering File Choosers/Swing 23 - Filtering File Choosers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Swing1 - Hello World/Swing1 - Hello World.iml" filepath="$PROJECT_DIR$/Swing1 - Hello World/Swing1 - Hello World.iml" />
