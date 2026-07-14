@@ -2,4 +2,18 @@
 <project version="4">
   <component name="ProjectId" id="3GVLUGakgvvi4CBB7ByDDpU0APJ" />
   <component name="PropertiesComponent">{}</component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Swing17 - Radio Buttons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
 </project>
