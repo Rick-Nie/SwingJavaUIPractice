@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Swing1/Swing1.iml" filepath="$PROJECT_DIR$/Swing1/Swing1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing10 - Text Fields and Labels/Swing10 - Text Fields and Labels.iml" filepath="$PROJECT_DIR$/Swing10 - Text Fields and Labels/Swing10 - Text Fields and Labels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing11 - GridBagLayout/Swing11 - GridBagLayout.iml" filepath="$PROJECT_DIR$/Swing11 - GridBagLayout/Swing11 - GridBagLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing12 - Events/Swing12 - Events.iml" filepath="$PROJECT_DIR$/Swing12 - Events/Swing12 - Events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing13 - List Boxes/Swing13 - List Boxes.iml" filepath="$PROJECT_DIR$/Swing13 - List Boxes/Swing13 - List Boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing14 - Working With List Data/Swing14 - Working With List Data.iml" filepath="$PROJECT_DIR$/Swing14 - Working With List Data/Swing14 - Working With List Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing15 - ComboBoxes/Swing15 - ComboBoxes.iml" filepath="$PROJECT_DIR$/Swing15 - ComboBoxes/Swing15 - ComboBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing16 - Check Boxes/Swing16 - Check Boxes.iml" filepath="$PROJECT_DIR$/Swing16 - Check Boxes/Swing16 - Check Boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing17 - Radio Buttons/Swing17 - Radio Buttons.iml" filepath="$PROJECT_DIR$/Swing17 - Radio Buttons/Swing17 - Radio Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing2 - BorderLayout and Text Areas/Swing2 - BorderLayout and Text Areas.iml" filepath="$PROJECT_DIR$/Swing2 - BorderLayout and Text Areas/Swing2 - BorderLayout and Text Areas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing3 - Button Clicks/Swing3 - Button Clicks.iml" filepath="$PROJECT_DIR$/Swing3 - Button Clicks/Swing3 - Button Clicks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing4 - Custom Components/Swing4 - Custom Components.iml" filepath="$PROJECT_DIR$/Swing4 - Custom Components/Swing4 - Custom Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing5 - Toolbars/Swing5 - Toolbars.iml" filepath="$PROJECT_DIR$/Swing5 - Toolbars/Swing5 - Toolbars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing6 - Communication/Swing6 - Communication.iml" filepath="$PROJECT_DIR$/Swing6 - Communication/Swing6 - Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing7 - Listeners/Swing7 - Listeners.iml" filepath="$PROJECT_DIR$/Swing7 - Listeners/Swing7 - Listeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing8,9 - Size,Borders/Swing8,9 - Size,Borders.iml" filepath="$PROJECT_DIR$/Swing8,9 - Size,Borders/Swing8,9 - Size,Borders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwingJavaUI.iml" filepath="$PROJECT_DIR$/.idea/SwingJavaUI.iml" />
+    </modules>
+  </component>
+</project>
