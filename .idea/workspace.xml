@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Swing31 - Dialogs/src/gui/PrefsDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/Swing32 - Spinners.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/FormEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/FormListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/FormPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PersonFileFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PersonTableListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PersonTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PrefsDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/StringListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/TablePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/TextPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/Toolbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/model/AgeCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/model/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/model/EmploymentCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/model/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing31 - Dialogs/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing31 - Dialogs/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PrefsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PrefsDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +78,10 @@
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing31 - Dialogs" />
+      <module name="Swing32 - Spinners" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -115,9 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing27 - Serialization" />
+      <module name="Swing31 - Dialogs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -180,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.gui.App (4)" />
         <item itemvalue="Application.gui.App (3)" />
         <item itemvalue="Application.gui.App (2)" />
-        <item itemvalue="Application.gui.App (1)" />
       </list>
     </recent_temporary>
   </component>
