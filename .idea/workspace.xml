@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Swing26 - Tables/src/gui/PersonTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing26 - Tables/src/gui/TablePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing26 - Tables/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing26 - Tables/src/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing26 - Tables/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing26 - Tables/src/gui/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing26 - Tables/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing26 - Tables/src/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing27 - Serialization/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing27 - Serialization/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing27 - Serialization/src/gui/FormPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing27 - Serialization/src/gui/FormPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing27 - Serialization/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing27 - Serialization/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing27 - Serialization/src/model/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing27 - Serialization/src/model/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing27 - Serialization/src/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing27 - Serialization/src/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     "Application.App (4).executor": "Run",
     "Application.App (5).executor": "Run",
     "Application.App.executor": "Run",
+    "Application.gui.App (1).executor": "Run",
     "Application.gui.App.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing26 - Tables/src",
+    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing27 - Serialization/src",
     "onboarding.tips.debug.path": "C:/Projects/Reference/SwingJavaUI/Swing 25 - Controller/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -64,24 +65,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Reference\SwingJavaUI\Swing27 - Serialization\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing26 - Tables\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 25 - Controller\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing24 - Data Model\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 23 - Filtering File Choosers\src" />
-      <recent name="C:\Projects\Reference\SwingJavaUI\Swing 22 - File Choosers\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gui.App">
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="Swing20 - Mnemonics and Accelerators" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.gui.App (1)">
     <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Swing21 - Option Panes" />
@@ -99,6 +93,19 @@
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Swing 23 - Filtering File Choosers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.App" />
+      <module name="Swing27 - Serialization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gui.App (1)" />
         <item itemvalue="Application.gui.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.App (5)" />
         <item itemvalue="Application.App (4)" />
-        <item itemvalue="Application.App (3)" />
       </list>
     </recent_temporary>
   </component>
