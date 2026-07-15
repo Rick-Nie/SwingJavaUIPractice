@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Swing34 - Preferences/src/gui/PrefsListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing33 - Passwords/src/gui/PrefsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing33 - Passwords/src/gui/PrefsDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing34 - Preferences/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing34 - Preferences/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing34 - Preferences/src/gui/PrefsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing34 - Preferences/src/gui/PrefsDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,7 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing33 - Passwords/src",
+    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing34 - Preferences/src",
     "onboarding.tips.debug.path": "C:/Projects/Reference/SwingJavaUI/Swing 25 - Controller/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -68,20 +70,20 @@
       <recent name="gui" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Reference\SwingJavaUI\Swing34 - Preferences\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing33 - Passwords\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing32 - Spinners\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing31 - Dialogs\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 30 - Deleting Table Rows\src" />
-      <recent name="C:\Projects\Reference\SwingJavaUI\Swing29 - Table Row Selection\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing32 - Spinners" />
+      <module name="Swing34 - Preferences" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -92,9 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing33 - Passwords" />
+      <module name="Swing29 - Table Row Selection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.App" />
+      <module name="Swing 30 - Deleting Table Rows" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -118,9 +133,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing29 - Table Row Selection" />
+      <module name="Swing32 - Spinners" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -131,9 +146,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing 30 - Deleting Table Rows" />
+      <module name="Swing33 - Passwords" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui.App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.App" />
+      <module name="Swing29 - Table Row Selection" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -157,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.gui.App (4)" />
-        <item itemvalue="Application.gui.App (3)" />
       </list>
     </recent_temporary>
   </component>
