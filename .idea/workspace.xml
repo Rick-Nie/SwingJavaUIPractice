@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PrefsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing32 - Spinners/src/gui/PrefsDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing33 - Passwords/src/gui/PrefsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing33 - Passwords/src/gui/PrefsDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing32 - Spinners/src",
+    "last_opened_file_path": "C:/Projects/Reference/SwingJavaUI/Swing33 - Passwords/src",
     "onboarding.tips.debug.path": "C:/Projects/Reference/SwingJavaUI/Swing 25 - Controller/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -68,17 +68,17 @@
       <recent name="gui" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Reference\SwingJavaUI\Swing33 - Passwords\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing32 - Spinners\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing31 - Dialogs\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 30 - Deleting Table Rows\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing29 - Table Row Selection\src" />
-      <recent name="C:\Projects\Reference\SwingJavaUI\Swing28 - Popup Menus\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.App (2)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
       <module name="Swing32 - Spinners" />
@@ -92,9 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing31 - Dialogs" />
+      <module name="Swing33 - Passwords" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -105,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
-      <module name="Swing28 - Popup Menus" />
+      <module name="Swing31 - Dialogs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.*" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.gui.App (4)" />
         <item itemvalue="Application.gui.App (3)" />
-        <item itemvalue="Application.gui.App (2)" />
       </list>
     </recent_temporary>
   </component>
