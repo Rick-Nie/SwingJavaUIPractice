@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bdafaf-d0c3-4749-90c2-0d4fa8a57bb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/Swing 30 - Deleting Table Rows.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/FormEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/FormListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/FormPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/PersonFileFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/PersonTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/StringListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/TablePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/TextPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/Toolbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/AgeCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/EmploymentCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/PersonTableListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swing29 - Table Row Selection/src/gui/TablePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing29 - Table Row Selection/src/gui/TablePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/TablePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/gui/TablePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swing 30 - Deleting Table Rows/src/model/DataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +22,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -66,6 +51,7 @@
     "Application.gui.App (1).executor": "Run",
     "Application.gui.App (2).executor": "Run",
     "Application.gui.App (3).executor": "Run",
+    "Application.gui.App (4).executor": "Run",
     "Application.gui.App.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -82,6 +68,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gui" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing 30 - Deleting Table Rows\src" />
       <recent name="C:\Projects\Reference\SwingJavaUI\Swing29 - Table Row Selection\src" />
@@ -93,14 +82,7 @@
       <recent name="C:\Projects\Reference\SwingJavaUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gui.App (3)">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="Swing 23 - Filtering File Choosers" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.gui.App (4)">
     <configuration name="gui.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
       <module name="Swing27 - Serialization" />
@@ -140,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gui.App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.App" />
+      <module name="Swing 30 - Deleting Table Rows" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gui.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.App" />
       <module name="Swing26 - Tables" />
@@ -166,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gui.App (4)" />
         <item itemvalue="Application.gui.App (3)" />
         <item itemvalue="Application.gui.App (2)" />
         <item itemvalue="Application.gui.App (1)" />
         <item itemvalue="Application.gui.App" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
